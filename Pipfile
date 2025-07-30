@@ -10,8 +10,10 @@ scikit-learn = "*"
 scipy = "*"
 numpy = "*"
 pandas = "*"
+notebook = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.12"
