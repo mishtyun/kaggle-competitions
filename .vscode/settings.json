@@ -1,0 +1,3 @@
+{
+    "jupyter.kernelArgs": ["-Xfrozen_modules=off"]
+}
